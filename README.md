@@ -1,1 +1,1 @@
-# ToDoApplication
+For the To Do Application I made four task that the program could do. First one is to add a task, the second one is to view a task. The third one is to delete a task, and the fourth is to quit the application. Each on does what they are define to do, quit the application quits the app and delivers message that says "Goodbye!". 
